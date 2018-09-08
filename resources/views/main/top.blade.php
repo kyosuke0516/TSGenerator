@@ -12,6 +12,7 @@
     <div class="links">
       <a href="{{ url('/home') }}">user</a>
       <a href="{{ url('/generate') }}">generate</a>
+      <a href="{{ url('/generate') }}">add</a>
     </div>
   </div>
 </div>
