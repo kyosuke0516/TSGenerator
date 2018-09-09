@@ -12,7 +12,7 @@
     <div class="links">
       <a href="{{ url('/home') }}">user</a>
       <a href="{{ url('/generate') }}">generate</a>
-      ✴︎
+
     </div>
   </div>
 </div>
